@@ -1,0 +1,4 @@
+Transaction ID: 1001, Customer Name: John Doe, Amount: $454.00, Date: 2024-07-24, Time: 12:34, Merchant ID: 201, Country: US, Cross Border: No, Device Type: Mobile, Payment Method: Credit Card, Status: Successful.
+Transaction ID: 1002, Customer Name: Jane Smith, Amount: $200.00, Date: 2024-07-24, Time: 13:21, Merchant ID: 202, Country: GB, Cross Border: Yes, Device Type: Desktop, Payment Method: PayPal, Status: Failed.
+Transaction ID: 1003, Customer Name: Emily Johnson, Transaction Amount: $134.50, Date: 2024-07-24, Time: 14:00, Merchant ID: 203, Country: US, Cross Border: No, Device Type: Mobile, Payment Method: Credit Card, Status: Successful.
+Transaction ID: 1004, Customer Name: Michael Brown, Transaction Amount: $560.00, Date: 2024-07-24, Time: 15:15, Merchant ID: 204, Country: CA, Cross Border: Yes, Device Type: Tablet, Payment Method: Credit Card, Status: Refunded.

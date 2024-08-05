@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Solutions</title>
+    <link rel="icon" href="/static/chatbot.png" type="image/png">
+    <link rel="stylesheet" href="/static/dashboard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <span class="menu-toggle" id="menuToggle">&#9776;</span>
+        <div class="cube-card">
+            <h2>Solutions With Artificial Intelligence</h2>
+        </div>
+    </div>
+    <div class="main" id="mainContent">
+        <div class="left-menu" id="leftMenu">
+            <div class="profile">
+                <img src="/static/bot.jpg" alt="Profile Image" width="40">
+                <div class="profile-info">
+                    <p>Akash</p>
+                    <p>akashpersonal81@gmail.com</p>
+                </div>
+            </div>
+            <ul>
+                <li>
+                    <button id="docXButton"><i class="fas fa-file-alt"></i> <span>DocX Insights Retriever</span></button>
+                </li>
+                <li>
+                    <button id="queryButton"><i class="fas fa-question-circle"></i> <span>Question Answering System</span></button>
+                </li>
+            </ul>
+            <a href="/logout" class="logout-button">Logout</a>
+        </div>
+        <div class="right-content" id="rightContent">
+            <button id="backButton" class="hidden">&#x2190; Back</button>
+            <div class="default-info">
+                <h1 id="docxheader">Quick Insight Solutions</h1>
+                <p id="description">Leveraging the advanced capabilities of a Retrieval-Augmented Generation (RAG) architecture and the power of a graph database, Quick Insight Solutions offer robust and intelligent query responses, enhanced data analysis, efficient data retrieval, sophisticated knowledge extraction, seamless integration of disparate data sources, advanced semantic understanding, comprehensive data synthesis, and streamlined information retrieval.
+                </p>
+                <div class="special-cube-container">
+                    <div class="cube-card">
+                        <h2>DocX Insights Retriever</h2>
+                        <p>The system is designed to handle various document types and provide precise answers to user queries, making it versatile for multiple applications such as customer support, education, and legal advice.</p>
+                        <button class="cube-card-button" id="docXButtonCard">Explore</button>
+                    </div>
+                    <div class="cube-card">
+                        <h2>Question Answering System</h2>
+                        <p>The system is designed to handle graph data from Neo4j and provide precise answers to user queries, making it versatile for multiple applications such as knowledge management, research, and data analysis.</p>
+                        <button class="cube-card-button" id="queryButtonCard">Explore</button>
+                    </div>
+                </div>
+            </div>
+            <div class="chat-container-docx hidden" id="docxChatContainer">
+                <div class="chat-box" id="docx-chat-box">
+                    <!-- Chat messages will be appended here -->
+                </div>
+                <div class="chat-input">
+                    <form id="process-form-docx">
+                        <label for="document" class="file-input-label"><i class="fas fa-paperclip"></i></label>
+                        <input type="file" id="document" name="document" accept=".txt" class="file-input">
+                        <input type="text" id="docx-query" name="query" placeholder="Enter your query here..!" class="text-input">
+                        <button class="queryButtonChat" type="submit" id="processButton">Submit</button>
+                    </form>                   
+                </div>
+                <div id="status-message-docx" class="status-message hidden"></div>
+                <div id="loading-spinner-docx" class="loading-spinner hidden"></div>
+            </div>
+
+            <div class="chat-container-query hidden" id="queryChatContainer">
+                <div class="chat-header">
+                    <div class="avatar">
+                        <img src="/static/bot.jpg" alt="Bot Avatar">
+                    </div>
+                    <div class="title">Question Answering Service</div>
+                </div>
+                <div class="chat-messages" id="chat-messages-query">
+                    <!-- Messages will be appended here -->
+                </div>
+                <div class="chat-input">
+                    <input class="text-input" type="text" id="query-input" placeholder="Type your message here...">
+                    <button onclick="askQuestion()">Send</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/dashboard.js"></script>
+</body>
+</html>

@@ -1,0 +1,255 @@
+
+SP	D E V A R A J
+Technologist with Business Acumen
+
+https:// www.linkedin.com/in/devarajsp	+ 91 - 9840324759	Raj_deva@yahoo.com	Chennai, India
+
+
+EXPERIENCE	
+Vice President - Engineering
+Yubi (CredAvenue) & Start ups
+ Oct 2021 - Till Date  Chennai, India FinTech Product company
+* Leadership: Key role in AI Strategy, Technology Roadmap, Mergers, Governance, Owning product (B2C, B2B & B2B2C) and platform development, Quality systems, CoE, DevOps, Building high performing teams. Zero to one, one to ten, ten to hundred journeys
+
+Senior Director - Architecture
+GAIN Credit (Formerly Global Analytics)  June 2017 - Oct 2021  Chennai, India FinTech Product & SaaS company
+* Leadership: Key role in Architecture, IT Strategy, Technology Roadmap, Governance, owning AI ML transformation in creating SaaS business
+
+Senior Architect - IoT, CAG
+Mindtree Limited
+ May 2008 - June 2017  Chennai, India IT Services and Product Engineering Company
+* Business: Winning multi-million $ projects in Insurance, Travel domains
+* Technology: Successful development & roll out of innovative handheld app product in 100+ airports, owning full engineering lifecycle
+* Leadership: Heading Java & .NET practice, made strategic expansion of capability & capacity by building 500+ high performing engineers for business growth
+* Technology: Stellar performance in Architecture Assessment, Solutions, Consulting, Performance Engineering & Modernization projects
+
+Team Leader
+American Megatrends India Pvt. Ltd.
+ June 2000 - May 2008   Chennai, India
+Subsidiary of AMI- BIOS, Network Storage & Embedded Product Company
+Technology: Full stack engineer for Network Storage & Handheld device products and Product in multi stack environment.
+Product Engineering: Active involvement in full product lifecycle of Network Storage Product
+Innovation: Conceptualized and created Continuous Data Protection (for Windows) Product that created ancillary market.
+Business: Key role in bringing new business to Storage Solutions (DR, HA, Custom solutions) in Kenya, Saudi, Bahrain, UAE, Singapore and Taiwan Geos.
+
+PROUD MOMENTS	
+Featured in AWSome builders
+* Presented our SaaS architecture in AWSome Builders - AWS & yourstory.com forum
+
+IoT Recognitions
+* Top 10 participants in NASSCOM TechNgage 2016, Chennai, for IoT Innovation.
+* BEST IoT K-SAFARI Winner in Osmosis 2016 (Mindtree Tech Event) for IoT.
+
+ Co-Created path breaking concept, botRADAR
+A digital security scanner that saved reputation of several organizations and several millions of loss
+
+Conceptualized and Created Innovation Platform
+Lab to nurture innovation. The team generated 100+ s/w product ideas, 20 working prototypes in 6 mths. Platform has reached several 1000s of young talent
+
+KEY TECHNOLOGIES	
+
+Azure AWSAI MLPythonC#CGen AINeural NetworkAutomationEDUCATION	
+Master of Business Administration (MBA) Master of Computer Applications (MCA)
+
+SKILLS	
+Leadership Innovation Management Technology
+
+AREAS OF EXPERTISE
+24+ years of experience in IT industry (10+ in product company and 10+ product engineering services, innovation and R&D)
+* Strong Skills in Business Development, Talent Development, Stakeholder management, full lifecycle management from requirement elicitation, technical business solution and architecture blueprint workshops to successful product and project deliveries.
+* Solution Architect in cutting edge technologies including AWS, Azure IoT, AI ML, Gen AI, Network storage & Mobility
+* Proficient in full lifecycle implementations of successful AI Solutions, software products and solutions
+* Expertise in Enterprise Architecture evaluation, Gap Analysis, Legacy System Integration and Modernization
+* Successful engineering and roll outs in Mobility, Cloud and IoT
+* AI ML - Strategy* Product Engineering* Technology Strategies* Enterprise Architecture* Innovation* Talent Development* Agile Development* Architecture consulting* Tech. Modernization* Technology Evaluation* Proof of Concepts* Solution Acceleration
+RECENT HIGH PRIORITY PROJECTS & ACCOMPLISHMENTS
+INDIAN FINTECH	AI ML Platform architecture, High scalable distributed systems, Mergers, AI Transformation Strategy, Quality system revamp, B2B, B2C & B2B2C product and platform development, Building high performance teams
+UK FINTECH	Digital transformation, SaaS business incubation, Architecture Governance, IT Strategy, Performance Engineering with 75% improvement. High Scalable Cloud Architecture, Security Strengthening, Engineering Excellence and integrated Monitoring. Event Driven Architecture (EDA), Domain Driven Design, Next Gen Lending Platform - SaaS, Multi-tenant
+UAE AIRLINES	Proposal, Architecture Assessment, Blueprinting, next gen PSS design and $5M+ project wins.
+UK CAR RENTAL	Successful development & roll out of innovative handheld app product in 100+ airports to a travel company, by owning full engineering lifecycle (architecture, design & implementation)
+TECHNGAGE TOP 10  Top 10 participants in Nascomm TechNgage, Chennai, for IoT Innovation BEST IoT K-SAFARI	Winner of K-SAFARI in Osmosis (Mindtree Tech Event) for IoT
+KEY TECHNICAL SKILLS
+AI ML Technologies:	GenAI, Model Ops, Models - Linear Regression to Graph Attention Neural Networks (GAT), LLMs
+Technologies:	Java, .NET, Azure, IoT Hub, NodeJS, SOA, LDAP, SSO, ESB, IBM MQ
+Programming:	C, C++, C#, Java, HTML5, JavaScript, SharePoint,
+Database:	MS SQL, Azure Storage, Oracle
+Operating Systems:	Windows, Linux
+Tools:	MS Visio, Enterprise Architect, ALM CI/CD (VSTS), PowerBI
+Cloud Platform:	Amazon Web Services, Azure Cloud Services
+IoT Platform:	Azure IoT Hub, Raspberry Pi 3, Rasbian OS, Windows 10 IoT Core Mobility Platform:	Android Studio, PhoneGap, HTML5, BootStrap, RWD, NodeJS Accreditations:	SCP for JAVA 2 Technology, Brainbench Certification for C programming
+CORE VALUE SYSTEM & MISSION
+# Great Statements that imbibed as value system:
+* Have and give CHIPS	- [Courage, Health, Intelligence, Peace of mind, Spirituality], Purpose is the secret of PASSION. So, Know the cause, Means will follow. # Mission: Technology Solutions for Business and Social GROWTH.
+
+CORE COMPETENCY AND SELECTED ACCOMPLISHMENTS
+# AI ML Strategy and Development
+* Key role in building highly scalable Ensemble AI models for Credit Underwriting
+* Key role in creating AI transformation journey with AI Plugin architecture for quick adoption of AI technologies
+* Strategize GenAI, Model Ops and Model Governance.
+* Developed multiple AI plugins for business solutions (Credit Underwriting, Customer Support Systems, Product Recommendation) using latest Graph Attention Neural Networks (GAT) models
+* Gen AI solutions using CoPilot, Mistral 7B models for shipping lease transaction agreements and improved agreement signing time.
+# Technology and Business Development
+* Key role in building highly scalable B2B, B2C, B2B2C products from scratch
+* Key role in creating new business unit with SaaS products and digital transformation
+* Project win: Played key role in proposing next generation PSS solution for UAE airlines and won major $5M+ project.
+* Storage Services: Major responsibilities include market analysis, client interactions, proof of concept development, project pitching and pre-sale activities. Storage services potential analysis in Taiwan. Project pitching in three Taiwanese companies.
+* Storage Product and Solutions: Design and Development of CDP product. Major responsibilities include client interactions, Storage & DR Solution Design, Ancillary component development, feature modification and training.
+* Been a key business door opener for Storage & DR Solution business by bringing in new clients & partners in Kenya, Saudi Arabia, Bahrain, UAE, Singapore and Taiwan through GITEX, client visits, technical trainings, conferences and demo sessions.
+# Technology Strategy, Governance, Architecture assessment & Architecture consulting
+* Heading Architecture and technologist team by owning IT Strategy, Technology Roadmap, Technical Debts, Product Non- Functional aspects including Performance engineering and Engineering Excellence
+* Led Architecture assessment of 'Storage Management Application' for a leading network storage product around various parameters
+likes overall architecture , NFRs, design , technology use, database performance
+* Assessed and defined architecture of 'HTTP redirection' solution for large enterprise private cloud storage product.
+# Architecture definition
+* Created next gen architecture for complex multi-sided market place with high integrations and interoperability
+* Architect for FinTech products and created highly scalable next gen lending platform
+* Architect for a checkout application solution by introducing mobile POS, which helps customers to checkout while they are waiting in the queue. The solution was done for a car rental company in UK, using MS technologies likes Windows 8.1 StoreApp, .NET, WCF, MVVM, HTTP & JSON. (Travel Domain)
+* Experience of defining & implementing the transport layer in re-engineering a high volume Foreign Exchange settlement application to replace IBM CTS with MQ. Event Driven Architecture (EDA), Next Gen Lending Platform SaaS - Multi-tenant (BFSI domain).
+# Product Engineering and Technology Roadmap
+* Experience in complete product lifecycle involving in conceptualizing, design process, development and customization for various Network Storage related products including Continuous Data Protection for files, Network Storage Server Management and Cloud Storage. [Linux/C/C++/.NET/Network Storage]
+* Experience in Prototype development for architecture and technology selection/adoption in various product development phases. [HyperV/VMWare/VSS/Web Technologies/CIM/.NET/C/Linux].
+# Application Modernization and Consolidation
+* Lead Architect in consolidation, transition and modernization proposal for insurance services company for 40+ legacy systems that runs across AU and NZ (BFSI domain). Successfully completed due diligence of ~30 Million LoC & created an extensive knowledge map in less than 2 weeks that made customer delight.
+* Migration of NDMP Server from Linux to Windows platform, for a Network Storage Data Protection product. (Network Storage domain)
+# Performance Engineering & Capacity Planning
+* Led performance profiling of "Pronto" application using various tools like visual studio profiler, Performance monitor and Custom memory monitoring, resulting in performance improvement by 50%.
+* Experience in sizing & capacity planning for multiple applications and platforms
+
+# Talent development & process and people management
+* Built architecture and high performing engineering teams from scratch
+* Head of Talent Transformation (TTG) Group (Heading the practice with 300+ Engineers in Chennai). Major responsibilities include building and managing TTG in Mindtree, Chennai, which involves recruiting, skill building, nurturing innovation, staffing operations, internal certifications and appraisals for Java and .NET engineers.
+
+# Innovation and Solution acceleration
+* Conceptualized and Created the following :
+o KIDS lab (Kreative and Innovative Developers in Spare time) to nurture innovation, the team generated 100+ s/w product ideas and created 20 working prototypes in 6 months
+o botRADAR - A digital security scanner that saved reputation of several organizations and several millions of loss.
+o KLINIC - a comprehensive framework to evaluate the knowledge level of the engineers, which will report the skill details in granular level. It is effectively used to create personal learning plan and for allocating right resource for critical projects to reduce the resource ramp up time by half.
+o STRIPPED - a collaborative learning methodology and process to build high performing teams. This concept was nominated and used in organization level as an innovative learning method in Mindtree. OpsMon - a quick view tool for managing staffing, bench & tasks management
+
+
+ENGINEERING PROJECTS	
+# Yubi - Possibility Platform & AI Platforms [Oct 2021 - Till Date] (Client: Yubi (CredAvenue) & Start Ups)
+* Owning AI Strategy, Building Gen AI solutions using various LLMs and agents
+* Ideated and Built SpeedX, AI innovation platform with a new age AI Plugin architecture for quick adoption of AI technologies
+* Strategize Responsible AI using Model Ops and policy management (data drift and model drift)
+* Built solutions using latest AI ML models for Credit Underwriting, Customer Support Solutions, Product Recommendations using Graph Attention Neural Network (GAT), Feature Engineering and Ensemble Models
+* Owning Technology Strategy, Technology Roadmap, Governance (ARB), Mergers, Engineering Excellence, Performance Engineering, Security Enhancements, Data driven culture
+* Architecture and execution plans for Yubi platforms for scalable, interoperable products
+* Building engineering teams and modernization roadmap for securitization and colending products
+* Built high performing engineering team of size 75+ in less than two quarters with various resource strategies
+* Building B2C, B2B2C platform for Bonds / Fixed Income products from zero to 1 (from scratch)
+* Revamped quality systems and processes to ensure high quality deliverables with speed in delivery
+* Bootstrapped performance engineering, reliability engineering for high scalable Yubi platforms
+# SaaS Products and Platform [June 2019 - 2021] (Client: GAIN Credit)
+* Created new SaaS product SynapiChat (Fintech bot) from scratch
+* Created next generation SaaS based digital architecture that helps the company in bringing up new business unit
+* Owning and running the architecture team, platform teams and organization API transformation program
+# Next Generation Lending Platform [June 2017 - 2021] (Client: GAIN Credit)
+* Owning IT Strategy, Technology Roadmap, Target Architecture, Architecture Governance (ARB), Engineering Process Enhancements, Performance Engineering, Security Enhancements
+* Integrated Monitoring Solution (zabbix, ELK, CloudWatch) to reduce the time taken to identify the systemic issues in less than 5 minutes
+* Integrated CMS solution (Customized Django) to reduce the time taken to publish content from 2 weeks to <2 days
+* Performance Engineering Enhancements to improve the lead provider processing time by 75%
+* Improved Security Enhancements by encryption of PII and usage of AWS KMS.
+* Operational Efficiency Initiatives: SingleSourceOfTruth (KPI based management and data consistency), LiveDocs (enhance maintenance), BasePlatformApproach (reduce cycle time)
+# Asset+ - Internet of Things IoT Solutions [May 2016 - June 2017] (Client: IoT CoE)
+Architecture Definition, Design and Development ( Azure, IoT hub, Raspberry Pi3, Windows IoT core 10, Raspbion, Python, JQuery, HTML5, RWD, AWD, Enterprise Architecture, .Net, Azure based applications)
+
+# Flydubai -Passenger Service System [Jun 2015 - April 2016] (Client: Flydubai- UAE)
+Proposals, Project Pitching, Architecture Blueprint, Architecture Definition, Performance Engineering, Security Engineering (botRADAR), Micro services based architecture, Application Modernization, New Design and Development ( Visual Basic, JQuery, HTML5, RWD, AWD, Enterprise Architecture, Oracle,.Net, Azure based applications)
+# Emirates-Enterprise Architecture Evaluation Framework [Jan 2015 - May 2015] (Client: Emirates- UAE)
+Architecture Evaluation, Performance Engineering, Enterprise Application Blueprinting of 1000+ applications and Roadmap creation for architecture improvements for selected applications. ( Enterprise Architecture, Oracle, Java, .Net, Azure based applications)
+# Avis Budget -Pronto Handheld device application [Jan 2014 - Dec 2014] (Client: Avis - Europe)
+Architect, Design and Develop Pronto, a Windows 8.1 Store App for HP Tablet to reduce the queue in the check out counters. (Windows 8.1, StoreApp, C#)
+# Navigator -Insurance applications Knowledge Transition [Nov 2013 - Dec 2013] (Client: Navigator)
+Knowledge Transition for Navigator insurance applications. Understanding the Architecture, Design of high volume transaction based enterprise Apps and creation of tools to extract meta data on existing source base. (.NET)
+# Link Group - AAS Insurance applications due diligence/transition [Aug 2013 - Oct 2013] (Client: Link Group)
+Due diligence and transition planning for Link group insurance applications. Understanding the Architecture, Design of high volume transaction based enterprise Apps to chart out transition plan. (Java/.Net/Cobol)
+# CLS Bank - Enterprise FX Core App Re-engineering [Nov 2012 - July 2013] (Client: CLS Bank)
+Architecture, Design transport layer for high volume transaction based enterprise App. Re-engineer the FX core application by replacing IBM CTS dependency with MQ. (AIX/C)
+# Data management projects [Feb 2012 - Nov 2012] (Client: MindTree IP & Customers)
+Conceptualize, Design and PoC of Automatic Evaluation System application (AES - Evaluation App), Operations Monitor application (OpsMon), Klinic (Granular Skill valuation system) and Technology Playground (A platform to nurture innovation and product engineering). Managing Talent Transformation Group (TTG) in MindTree, Chennai, which does skill building for Java and .NET engineers (0 to 5 yrs exp).
+# Enterprise Mobile & Mgmt app projects [Sep 2011 - Jan 2012] (Client: Fiberlink, TurnHere., US )
+Technical Manager and consultant for Fiberlink (enterprise mobile management product) and TurnHere, Customer profile data management) and Quest projects. (Project Manager).
+# Web Service & Recovery Manager for SQL [Jul 2010 -Aug 2011] (Client: 3PAR (HP)., US )
+3PAR (HP) storage management applications provide web service interface for storage management and RMSQL provides recovery management for SQL data for its storage systems. (Individual Contributor)
+* Design and development, Storage Management Web Service Client (Windows/C#)
+* Prototype Development to run linux mgmt app in windows using VMWare and HyperV.
+* Maintenance of Recovery Manager for SQL - RMSQL (Windows Service/VSS/Java)
+# Cloud Storage Software [Feb 2009 - Jun 2010] (Client: Parascale Inc., Cupertino, US )
+Parascale cloud storage is a software based cloud storage which runs as an application in Linux environment that aggregates set of Storage Node servers that are managed by a Control Node to provider high performance, high capacity and scalable NAS based storage. (Developer, Tester & PM)
+* Design and development, testing of HTTP redirection module (Linux/C++/Perl/JSP)
+* System test automation framework development. (Linux/Perl/C)
+* Setting up storage cloud lab and test execution. (VMWare/VPN/5 Clouds/30+ Servers)
+# SMIS/CIM Code Generator Wizard - MindTree, IP Development [Dec 2008 - Jan 2009] (Client: MindTree Internal IP)
+SMIS Code Generator is an application that generates skeleton code for Method and Instance provider for given set of CIM classes in XML format. The provider is using CMPI interface and generated code is made ready to be compiled in windows for openPegasus. It also generates registration MOF files. (Developer & PM)
+* Design, coding & testing (.NET, C# [Windows application], XML, C/ CMPI)
+
+# SMIS - MindTree, IP Development [Oct 2008 - Dec 2008] (Client: MindTree Internal IP)
+Reusable CIM/WBEM based module for storage and related device management libraries that enables quicker development of standard based management applications. This involves development of SMIS based provider using CMPI interface in openPegasus platform (Linux/Windows). (Developer & PM)
+* Design, coding & testing (C/CMPI)
+# NAS licensing module [Dec 2006 - Jun 2007] (Client: eNova Tech)
+Licensing module for NAS stack and RnD on ROW snapshot integration. (BD, Developer & Team Lead)
+* Project pitching and PoC development (C/Linux)
+# SMI-S for InneRAID controller - Linux [Dec 2006 - Jun 2007] (Client: Accusys)
+SMI-S provider for Accusys RAID controller, using SFCB. (BD, Developer & Team Lead)
+* Project pitching, PoC development, Architecture and Design (C/Linux)
+# Continuous Data Protection - Linux [Dec 2006 - Jun 2007] (Client: Thecus)
+Linux service for protecting files in every file save event for NAS based servers. (BD, Developer & Team Lead)
+* PoC development, Architecture and Design (C/Linux)
+# Falcon IVM - Linux [Jan 2007- Dec 2007] (Client: Internal IP)
+Mobile based notifications and mobile-based management for critical events that happen in a High Availability storage server. (Developer & Team Lead)
+* Conceptualization, PoC development, Architecture, Design & coding (C/Linux/AT commands)
+# Continuous Data Protection - AMI iTX Storage [Jun 2006 - Nov 2006] (Client: AMI, US)
+Windows application that monitors the modified files and protect them locally as well as in a remote server. Every save operation in a file will initiate a data protection event. (Developer & Team Lead)
+* PoC development, Architecture, Design & Development of CDP for windows (.NET/C#/Windows application/Active Directory)
+# Virtual Disk Service - AMI iTX Storage [Jan 2006 - Jun 2006] (Client: AMI, US)
+This project involves development of vendor specific hardware provider for VDS service in windows 2003 to support iSCSI san management of AMI Storage device. (Developer & Team Lead)
+* Architecture, Design and Development of VDS Hardware provider (COM, VC++ & Windows 2003 R2)
+# Storage Management Initiative Provider - AMI iTX Storage [July 2005 - Jan 2006] (Client: AMI, US)
+SMI-S is a standard developed by SNIA (Storage Networking Industry Association) for Network storage management. The project involves development of a SMI-S provider that enables interaction of the AMI storage box with other vendors and making the product interoperable. It involves development of instance, method, association and indication provider for Pegasus CIMOM (CIM/WBEM, XML, Linux, C & CMPI)
+* Architecture, Design and Development of SMI-S provider using CMPI (storage unit side)
+# Virtualization Management Interface (VMI-TM) - AMI iTX Storage [JAN 2005 - July 2005] (Client: AMI, US)
+VMI is virtualization manager enables many storage boxes to be viewed as a single unit to the user. This consists of a VM Interface and Transaction Manager components. It also includes a notification mechanism, which notifies the critical events occur in the storage pool (virtual storage) (Developer & Team Lead)
+* Architecture, Design and Development of Transaction Manager & SNMP notification (Linux/C)
+* Team Lead, Quality facilitator and Client interaction
+# NDMP - AMI NAS Backup utility [JUNE 2004 - DEC 2004] (Client: AMI, US)
+AMI NAS Backup utility is based on NDMP protocol V3 (Network Data Management Protocol) that enables the user to take backup/restore from NAS to NAS, NAS to Tape and NAS to windows machine. It is developed in C and runs as a background service. Ndmp client is a windows application developed using C#.
+* Remotely coordinated the project from AMI Atlanta
+* Development & Design of Windows NDMP Client. (C/Linux/Windows/C#.NET/Windows application)
+* Porting of Linux NDMP server to windows.
+# Policy Assistant [JAN 2004 - JUNE 2004] (Client: FideliyShield Insurance Company, Kenya)
+
+Policy Assistant is an application front office Insurance document generation application, which is designed to co-exist with the 'Policy Master'
+(insurance software). This client server application is to be used for underwriting, authorizing and document generation.
+* Involved in Onsite Requirement Analysis and Business solution development at Fidelity Shield, Kenya
+* Involved in Design of Core Server in .NET(c#) and clients in Visual Basic with HTML report generation.
+# Flow Meter Management (ABB) [JAN 2004 - JUNE 2004] (Client: ABB, UK)
+Flow meter management is a management application that is used to manage ABB flow meters. The architecture is designed using Mobile SMS messaging, and the server designed using .NET technology with C#, MSMQ, ASP.NET. Data is transferred using encoded SMS messages. The messages are received using proprietary SMS gate way developed using C and VC++.
+* Design & development of Message Handing layer (.NET) in management server & licensing module.
+* Involved in development of Interface layer between SMS gateway and management server.
+# ManageTrends - SRM Express [FEB 2002 - DEC 2003] (Client: AMI, US)
+ManageTrends enables management of AMI NAS and SAN devices across the network. The application includes basic management features such as Scheduled Discovery, Monitoring, Configuration, Statistics and Event Handling. ManageTrends is built on .NET Framework using C#, Web Services, Windows Services, ADS, ADO.NET and ASP.NET. MSMQ is used for notifying messages within modules. ManageTrends is deployed on IIS Server. (Developer & Team Lead)
+* Designed and Implemented Web services, core assemblies and ASP.NET Pages & Object layer for iSNS
+* Implementing a prototype for iSNS server component & scheduling (windows) service module
+# Natter [DEC 2001 - FEB 2002] (Client: AMI, India)
+Natter is a classical peer-to-peer chat application. Natter comes integrated with EzManage, a bug-tracking tool from AMI India.
+* Involved in implementation of Natter Client (VC++/Windows application).
+* Designed and Implemented Natter Server Components (Java).
+# Internet Appliance [JUNE 2000 - NOV 2001] (Client: AMI, US)
+Internet Appliance is a hand held device project from AMI US, which was running Microware - OS9 Real Time Operating System. The core windows API for OS9 have been designed using Microwindows, MAUI, micro-C.
+* Development of Microwindows API (Win32 like API) for OS9 & Win32 Applications for the PDA.
+# AdReady [NOV 1999 - MAY 2000] (Client: Adready, US)
+AdReady is an innovative Internet advertising tool, which populates advertisements under the mouse pointer when user is idle while browsing, and helps him to configure his interest, move or to hide the advertisements. It consists of an AdServer (Java, JSP) and AdClient (JavaScript, VC++). The client has got two variants, JavaScript client for browsers and VC++ client for normal applications.
+* Development of AdServer configuration module, JavaScript Client & maintenance of VC++ Client.
+
+
+Some events / session links:
+Have done many presentations with clients (national and international), tech forums, colleges, institutions in various topics - products, tech architecture, innovation and much more. Here are few samples, which were published in internet
+* Pick the ideal Tech Stack for your FinTech | SCALER
+( https://www.youtube.com/watch?v=hS_GQY5U14c )
+* Architecture presentation in AWSome builders by AWS and yourstory
+(  https://yourstory.com/session/leveraging-tech-customer-service-aws-gaincredit  )
+* Tech presentation done in TechNgage by Nasscom
+(  https://www.linkedin.com/pulse/celebrating-technologists-chennai-nasscom-techngage-devaraj-sp/  )
+
+
